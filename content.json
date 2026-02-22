@@ -51,14 +51,51 @@
   "last_updated": "2026-02-23"
 },
         {
-          "id": "dp_2",
-          "title": "Sayyidul Istighfar",
-          "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ...",
-          "latin": "Allahumma anta rabbii laa ilaaha illaa anta khalaqtanii wa ana ‘abduka...",
-          "translation": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak disembah kecuali Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu...",
-          "reference": "HR. Bukhari no. 6306",
-          "target_count": 3
-        },
+  "id": "dp_2",
+  "category_id": "dzikir_pagi",
+  "category_title": "Dzikir Pagi",
+  "title": "Sayyidul Istighfar",
+  "subtitle": "Penghulu istighfar dan doa ampunan terbaik",
+  "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+  "latin": "Allahumma anta rabbii laa ilaaha illaa anta khalaqtanii wa ana ‘abduka wa ana ‘alaa ‘ahdika wa wa’dika mastatha’tu. A’uudzu bika min syarri maa shana’tu, abuu-u laka bini’matika ‘alayya wa abuu-u bidzanbii faghfir lii fa innahu laa yaghfirudz-dzunuuba illaa anta.",
+  "translation": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak disembah kecuali Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku berada di atas perjanjian dan janji-Mu semampuku. Aku berlindung kepada-Mu dari keburukan apa yang telah aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku. Maka ampunilah aku, karena sesungguhnya tidak ada yang mengampuni dosa kecuali Engkau.",
+  "reference": "HR. Bukhari no. 6306",
+  "source_note": "Disebut sebagai penghulu istighfar. Dianjurkan dibaca pagi dan petang.",
+  "target_count": 3,
+  "timing": {
+    "recommended_time": "Pagi (setelah Subuh hingga sebelum terbit matahari)",
+    "also_recited_at": ["Petang"]
+  },
+  "benefit_summary": "Doa ampunan paling utama yang menjadi sebab diampuninya dosa.",
+  "fadhilah_detail": "Barangsiapa membacanya di pagi hari dengan penuh keyakinan lalu meninggal sebelum petang, maka ia termasuk penghuni surga. Dan siapa yang membacanya di petang hari dengan penuh keyakinan lalu meninggal sebelum pagi, maka ia termasuk penghuni surga.",
+  "audio": {
+    "enabled": true,
+    "audio_url": "https://example.com/audio/sayyidul_istighfar.mp3",
+    "reciter": "Misyari Rasyid Alafasy",
+    "duration_seconds": 40
+  },
+  "ui_config": {
+    "show_latin": true,
+    "show_translation": true,
+    "allow_counter": true,
+    "allow_mark_complete": true
+  },
+  "analytics": {
+    "last_read": null,
+    "total_read_count": 0,
+    "streak_days": 0
+  },
+  "tags": [
+    "istighfar",
+    "ampunan",
+    "taubat",
+    "pagi_petang"
+  ],
+  "priority_order": 2,
+  "is_featured": true,
+  "version": 1,
+  "last_updated": "2026-02-23"
+},
         {
           "id": "dp_3",
           "title": "Dzikir Perlindungan Pagi",
