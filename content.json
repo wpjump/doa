@@ -7,95 +7,35 @@
       "title": "Dzikir Pagi",
       "items": [
         {
-  "id": "dp_1",
-  "category_id": "dzikir_pagi",
-  "category_title": "Dzikir Pagi",
-  "title": "Membaca Ayat Kursi",
-  "subtitle": "Perlindungan utama di waktu pagi",
-  "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
-  "latin": "Allahu laa ilaaha illaa huwal hayyul qayyum, laa ta’khudzuhu sinatun wa laa nawm. Lahu maa fis-samaawaati wa maa fil-ardh. Man dzalladzii yasyfa’u ‘indahu illa bi-idznih. Ya’lamu maa baina aydiihim wa maa khalfahum, wa laa yuhiithuuna bisyai-in min ‘ilmihi illa bimaa syaa-a. Wasi’a kursiyyuhus-samaawaati wal-ardh, wa laa ya-uuduhu hifzhuhumaa wa huwal ‘aliyyul ‘azhiim.",
-  "translation": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka. Mereka tidak mengetahui sesuatu apa pun dari ilmu-Nya kecuali apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dia tidak merasa berat memelihara keduanya. Dan Dia Maha Tinggi lagi Maha Agung.",
-  "reference": "QS. Al-Baqarah: 255; HR. An-Nasa'i no. 100",
-  "source_note": "Ayat Kursi dianjurkan dibaca setiap pagi dan petang sebagai bentuk perlindungan.",
-  "target_count": 1,
-  "timing": {
-    "recommended_time": "Pagi (setelah Subuh hingga sebelum terbit matahari)",
-    "also_recited_at": ["Petang"]
-  },
-  "benefit_summary": "Perlindungan dari gangguan setan dan penjagaan Allah hingga waktu berikutnya.",
-  "fadhilah_detail": "Barangsiapa membaca Ayat Kursi di pagi hari, ia akan dijaga oleh Allah hingga petang. Dan siapa yang membacanya di petang hari, ia akan dijaga hingga pagi berikutnya.",
-  "audio": {
-    "enabled": true,
-    "audio_url": "https://example.com/audio/ayat_kursi.mp3",
-    "reciter": "Misyari Rasyid Alafasy",
-    "duration_seconds": 65
-  },
-  "ui_config": {
-    "show_latin": true,
-    "show_translation": true,
-    "allow_counter": true,
-    "allow_mark_complete": true
-  },
-  "analytics": {
-    "last_read": null,
-    "total_read_count": 0,
-    "streak_days": 0
-  },
-  "tags": [
-    "perlindungan",
-    "utama",
-    "tauhid",
-    "pagi_petang"
-  ],
-  "version": 1,
-  "last_updated": "2026-02-23"
-},
+          "id": "dp_1",
+          "category_id": "dzikir_pagi",
+          "category_title": "Dzikir Pagi",
+          "title": "Membaca Ayat Kursi",
+          "subtitle": "Perlindungan utama di waktu pagi",
+          "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+          "latin": "Allahu laa ilaaha illaa huwal hayyul qayyum, laa ta’khudzuhu sinatun wa laa nawm. Lahu maa fis-samaawaati wa maa fil-ardh. Man dzalladzii yasyfa’u ‘indahu illa bi-idznih. Ya’lamu maa baina aydiihim wa maa khalfahum, wa laa yuhiithuuna bisyai-in min ‘ilmihi illa bimaa syaa-a. Wasi’a kursiyyuhus-samaawaati wal-ardh, wa laa ya-uuduhu hifzhuhumaa wa huwal ‘aliyyul ‘azhiim.",
+          "translation": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka. Mereka tidak mengetahui sesuatu apa pun dari ilmu-Nya kecuali apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dia tidak merasa berat memelihara keduanya. Dan Dia Maha Tinggi lagi Maha Agung.",
+          "reference": "QS. Al-Baqarah: 255; HR. An-Nasa'i no. 100",
+          "source_note": "Ayat Kursi dianjurkan dibaca setiap pagi dan petang sebagai bentuk perlindungan.",
+          "target_count": 1,
+          "benefit_summary": "Perlindungan dari gangguan setan dan penjagaan Allah hingga waktu berikutnya.",
+          "fadhilah_detail": "Barangsiapa membaca Ayat Kursi di pagi hari, ia akan dijaga oleh Allah hingga petang. Dan siapa yang membacanya di petang hari, ia akan dijaga hingga pagi berikutnya."
+        },
         {
-  "id": "dp_2",
-  "category_id": "dzikir_pagi",
-  "category_title": "Dzikir Pagi",
-  "title": "Sayyidul Istighfar",
-  "subtitle": "Penghulu istighfar dan doa ampunan terbaik",
-  "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
-  "latin": "Allahumma anta rabbii laa ilaaha illaa anta khalaqtanii wa ana ‘abduka wa ana ‘alaa ‘ahdika wa wa’dika mastatha’tu. A’uudzu bika min syarri maa shana’tu, abuu-u laka bini’matika ‘alayya wa abuu-u bidzanbii faghfir lii fa innahu laa yaghfirudz-dzunuuba illaa anta.",
-  "translation": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak disembah kecuali Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku berada di atas perjanjian dan janji-Mu semampuku. Aku berlindung kepada-Mu dari keburukan apa yang telah aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku. Maka ampunilah aku, karena sesungguhnya tidak ada yang mengampuni dosa kecuali Engkau.",
-  "reference": "HR. Bukhari no. 6306",
-  "source_note": "Disebut sebagai penghulu istighfar. Dianjurkan dibaca pagi dan petang.",
-  "target_count": 3,
-  "timing": {
-    "recommended_time": "Pagi (setelah Subuh hingga sebelum terbit matahari)",
-    "also_recited_at": ["Petang"]
-  },
-  "benefit_summary": "Doa ampunan paling utama yang menjadi sebab diampuninya dosa.",
-  "fadhilah_detail": "Barangsiapa membacanya di pagi hari dengan penuh keyakinan lalu meninggal sebelum petang, maka ia termasuk penghuni surga. Dan siapa yang membacanya di petang hari dengan penuh keyakinan lalu meninggal sebelum pagi, maka ia termasuk penghuni surga.",
-  "audio": {
-    "enabled": true,
-    "audio_url": "https://example.com/audio/sayyidul_istighfar.mp3",
-    "reciter": "Misyari Rasyid Alafasy",
-    "duration_seconds": 40
-  },
-  "ui_config": {
-    "show_latin": true,
-    "show_translation": true,
-    "allow_counter": true,
-    "allow_mark_complete": true
-  },
-  "analytics": {
-    "last_read": null,
-    "total_read_count": 0,
-    "streak_days": 0
-  },
-  "tags": [
-    "istighfar",
-    "ampunan",
-    "taubat",
-    "pagi_petang"
-  ],
-  "priority_order": 2,
-  "is_featured": true,
-  "version": 1,
-  "last_updated": "2026-02-23"
-},
+          "id": "dp_2",
+          "category_id": "dzikir_pagi",
+          "category_title": "Dzikir Pagi",
+          "title": "Sayyidul Istighfar",
+          "subtitle": "Penghulu istighfar dan doa ampunan terbaik",
+          "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+          "latin": "Allahumma anta rabbii laa ilaaha illaa anta khalaqtanii wa ana ‘abduka wa ana ‘alaa ‘ahdika wa wa’dika mastatha’tu. A’uudzu bika min syarri maa shana’tu, abuu-u laka bini’matika ‘alayya wa abuu-u bidzanbii faghfir lii fa innahu laa yaghfirudz-dzunuuba illaa anta.",
+          "translation": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak disembah kecuali Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku berada di atas perjanjian dan janji-Mu semampuku. Aku berlindung kepada-Mu dari keburukan apa yang telah aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku. Maka ampunilah aku, karena sesungguhnya tidak ada yang mengampuni dosa kecuali Engkau.",
+          "reference": "HR. Bukhari no. 6306",
+          "source_note": "Disebut sebagai penghulu istighfar. Dianjurkan dibaca pagi dan petang.",
+          "target_count": 3,
+          "benefit_summary": "Doa ampunan paling utama yang menjadi sebab diampuninya dosa.",
+          "fadhilah_detail": "Barangsiapa membacanya di pagi hari dengan penuh keyakinan lalu meninggal sebelum petang, maka ia termasuk penghuni surga. Dan siapa yang membacanya di petang hari dengan penuh keyakinan lalu meninggal sebelum pagi, maka ia termasuk penghuni surga."
+        },
         {
           "id": "dp_3",
           "title": "Dzikir Perlindungan Pagi",
