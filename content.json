@@ -4,7 +4,7 @@
   "categories": [
     {
       "id": "dzikir_pagi",
-      "title": "Dzikir Pagi",
+      "title": {"id":"Dzikir Pagi", "en":"Morning Dzikir"},
       "items": [
         {
           "id": "dp_1",
@@ -76,7 +76,7 @@
     },
     {
       "id": "dzikir_malam",
-      "title": "Dzikir Petang",
+      "title": {"id":"Dzikir Petang", "en":"Evening Dzikir"},
       "items": [
         {
           "id": "dm_1",
